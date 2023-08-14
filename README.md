@@ -5,3 +5,4 @@ Owner : <br>
 M. Rifqi Naufal A <br>
 
 Contributor : <br>
+Fikri NurBakhtiar <br>
